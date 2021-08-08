@@ -1,4 +1,4 @@
 # Java
-Mactudy Java
-with JAE
+Mactudy Java\n
+with JAE\n
 with MinWook
