@@ -1,2 +1,2 @@
 # Java
-Mactudy with Minwook
+Mactudy with JAE
