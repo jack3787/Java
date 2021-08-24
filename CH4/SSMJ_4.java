@@ -38,4 +38,4 @@ public class SSMJ_4 {
         //if (t.contains(s, r, t)) System.out.println("t는 s를 포함합니다.");
 
     }
-}
+} 
