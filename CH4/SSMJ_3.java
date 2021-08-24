@@ -23,4 +23,4 @@ public class SSMJ_3 {
         Song song = new Song(1978, "스웨덴", "ABBA", "Dancing Queen");
         song.show3();
     }
-}
+} 
