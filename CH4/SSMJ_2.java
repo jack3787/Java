@@ -27,7 +27,7 @@ public class SSMJ_2 {
         int english = sc.nextInt();
         Grade me = new Grade(math, science, english);
         System.out.println("평균은 " + me.average());
-
+ 
         sc.close();
     }
 }
