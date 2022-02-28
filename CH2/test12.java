@@ -32,4 +32,4 @@ public class test12 {
         }
         //System.out.println(a+yunsanja+b + "의 계산결과는" + result);
     }
-}
+} 
