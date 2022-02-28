@@ -37,5 +37,5 @@ public class test12_2 {
         //System.out.print(a+yunsanja+b + "의 계산 결과는 " + result);
 
         scanner.close();
-    }
+    } 
 }
