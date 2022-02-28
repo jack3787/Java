@@ -37,5 +37,5 @@ public class test {
         System.out.println("독신 여부는 " + isSingle + "입니다.");
 
         scanner.close();
-    }
+    } 
 }
