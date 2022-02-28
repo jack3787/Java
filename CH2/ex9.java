@@ -16,4 +16,4 @@ public class ex9 {
         if (((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1)) < r * r)
             System.out.print("점 (" + x2 + "," + y2 + ")는 원 안에 있다.");
     }
-}
+} 
