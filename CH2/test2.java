@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test2 {
+public class test2 { 
     public static void main(String args[]){
         String result1 = "승자는 철수";
         String result2 = "승자는 영희";
