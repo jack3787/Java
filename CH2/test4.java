@@ -40,5 +40,5 @@ public class test4 {
             System.out.print("박수짝");
 
 
-    }
+    } 
 }
