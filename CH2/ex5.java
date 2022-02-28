@@ -16,3 +16,4 @@ public class ex5 {
             System.out.print("X");
     }
 }
+ 
